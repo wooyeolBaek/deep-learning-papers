@@ -1,7 +1,7 @@
 # Deep Learning Papers
 
 
-## 0-Basic
+## [0-Basic](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/0-basic)
 <!-- 
 <details>
 <summary>Normalizations</summary>
@@ -17,7 +17,7 @@
 </div>
 </details> -->
 
-## 1-Vision
+## [1-Vision](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/1-vision)
 <!-- 
 <details>
 <summary>CNN</summary>
@@ -56,7 +56,7 @@
 </details> -->
 
 
-## 2-Language
+## [2-Language](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/2-language)
 
 <!-- <details>
 <summary>Transformers</summary>
@@ -66,7 +66,7 @@
 </details> -->
 
 
-## 4-Multimodal
+## [4-Multimodal](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/3-multimodal)
 
 <!-- <details>
 <summary>Vision-Language</summary>
