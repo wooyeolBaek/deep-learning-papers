@@ -1,20 +1,25 @@
 # vision
-1. [CNN](#cnn)
-2. [Transformers](#transformers)
-3. [Detection](#detection)
-4. [GAN](#gan)
-5. [Diffusion](#diffusion)
+1. [CNN](#1-cnn)
+2. [Transformers](#2-transformers)
+3. [Detection](#3-detection)
+4. [GAN](#4-gan)
+5. [Diffusion Basic](#5-diffusion-basic)
+6. [Diffusion Image Editing](#6-diffusion-image-editing)
+7. [Diffusion Fast Sampling](#7-diffusion-fast-sampling)
+8. [Diffusion New Concept Learning](#8-diffusion-new-concept-learning)
 
 
 ## 1. CNN
 ### Very Deep Convolutional Networks for Large-Scale Image Recognition
-- VGG
+- [VGG](https://maize-skink-ffe.notion.site/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition-0f9110115ad14835843b20ec18180006)
 ### Going Deeper with Convolutions
-- InceptionNet(GoogLeNet)
+- [InceptionNet(GoogLeNet)](https://maize-skink-ffe.notion.site/Going-Deeper-with-Convolutions-08c04b7ca5e64386bc7ba1edeb7dd81a)
 ### U-Net: Convolutional Networks for Biomedical Image Segmentation
-- UNet
+- [UNet](https://maize-skink-ffe.notion.site/U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation-9ebe8c667c3d4e0da00e02bd4579c16d)
 <!-- ### Rethinking the Inception Architecture for Computer Vision
 - InceptionNet v2, v3 -->
+### Deep Residual Learning for Image Recognition
+- [ResNet](https://maize-skink-ffe.notion.site/Deep-Residual-Learning-for-Image-Recognition-9c88e8683baa4f87916c4e07ae3420f1)
 <!-- ### Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
 - InceptionNet v4 -->
 <!-- ### Indentity Mapping in Deep Residual Networks
@@ -23,8 +28,8 @@
 - Analyzed ResNet -->
 <!-- ### Wide Residual Networks
 - Wide ResNet -->
-### Densely Connected Convolutional Networks
-- DenseNet
+<!-- ### Densely Connected Convolutional Networks
+- DenseNet -->
 <!-- ### Aggregated Residual Transformations for Deep Neural Networks
 - ResNeXt -->
 <!-- ### MobileNets: Dfficient Convolutional Neural Networks for Mobile Vision Applications
@@ -104,55 +109,71 @@ SE-Net -->
 
 
 
-## 5.Diffusion
+## 5. Diffusion basic
+
+
+
 ### Deep Unsupervised Learning using Nonequilibrium Thermodynamics
-- The beginning of Diffusion method
+- [The beginning of Diffusion method](https://www.notion.so/Deep-Unsupervised-Learning-using-Nonequilibrium-Thermodynamics-e11a140364174af8b8904350ec82de78)
 ### Generative Modeling by Estimating Gradients of the Data Distribution
-- NCSN: The beginning of Score-based models
+- [NCSN: The beginning of Score-based models](https://www.notion.so/Generative-Modeling-by-Estimating-Gradients-of-the-Data-Distribution-08876e60a4da46bab93736c57a3f7bf9)
 ### Denoising Diffusion Probabilistic Model
-- DDPM: 노이즈 변화가 큰 부분에 집중하도록 Loss 단순화 & 다른 생성 방식들과의 연관성 발견
+- [DDPM: 노이즈 변화가 큰 부분에 집중하도록 Loss 단순화 & 다른 생성 방식들과의 연관성 발견](https://www.notion.so/Denoising-Diffusion-Probabilistic-Model-22ddaadcdb8c4c6a9f42ade7fecc2dc5?pvs=25)
 ### Denoising Diffusion Implicit Model
-- DDIM: Fast Deterministic non-Markovian sampling method
+- [DDIM: Fast Deterministic non-Markovian sampling method](https://www.notion.so/Denoising-Diffusion-Implicit-Model-5d4e94c9c57e404ab47a1ffca6332f3e?pvs=25)
 ### Score-based Generative Modeling through Stochastic Differential Equations
-- Score-based와 DDPM을 SDE로 묶음
+- [Score-based와 DDPM을 SDE로 묶음](https://www.notion.so/Scored-based-Generative-Modeling-through-Stochastic-Differential-Equations-1360b43bedc84d82be70c15960d6e0c3)
 ### Improved Denoising Diffusion Probabilistic Models
-- 아키텍처 변화, 스케줄링 변화
+- [아키텍처 변화, 스케줄링 변화](https://www.notion.so/Improved-Denoising-Diffusion-Probabilistic-Models-96b0b384014443ac8010e31bab603c1e)
 <!-- ### Zero-Shot Text-to-Image Generation
 - DALLE-E1 -->
 ### Diffusion Models Beat GANs on Image Synthesis
-- Classifier Guidance
+- [Classifier Guidance](https://www.notion.so/Diffusion-Models-Beat-GANs-on-Image-Synthesis-748eee79547a4852999baa4a51863795?pvs=25)
 ### Variational Diffusion Models
-- SNR
-<!-- ### SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
-- SDEdit -->
+- [SNR](https://www.notion.so/Variational-Diffusion-Models-4dfcc70e9c1e4cf6b1d097595a64f724)
 ### Classifier-Free Diffusion Guidance
-- Classifier Free Guidance
-<!-- ### Noise2Score: Tweedie's Approach to Self-Supervised Image Denoising without Clean Images -->
-<!-- ### Progressive Distillation for Fast Sampling of Diffusion Models -->
+- [Classifier Free Guidance](https://www.notion.so/Classifier-Free-Diffusion-Guidance-616dd1cdc0ac4956815739e6b739ed1b)
 <!-- ### Pseudo Numerical Methods for Diffusion Models on Manifolds
 - Fast Sampling -->
 ### High-Resolution Image Synthesis with Latent Diffusion Models
-- Stable Diffusion: Latent Diffusion that reduce computational cost
+- [Stable Diffusion: Latent Diffusion that reduce computational cost](https://www.notion.so/High-Resolution-Image-Synthesis-with-Latent-Diffusion-Models-d3a439b9f4e24a52959778a03fd7137c)
 <!-- ### Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
 - Imagen -->
 <!-- ### Elucidating the Design Space of Diffusion-Based Generative Models
 - 실험적으로 Diffusion Model을 어떻게 설계하는 것이 좋은지 -->
+### SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis
+- Stable Diffusion XL
+<!-- ### Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry -->
+<!-- ### Adversarial Diffusion Distillation
+- SDXL turbo -->
+<!-- ### Diffusion Model Alignment Using Direct Preference Optimization
+- Diffusion DPO -->
+
+## 6. Diffusion Image Editing
+<!-- ### SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
+- SDEdit -->
+### DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation
+- [Image Editing method using CLIP Loss](https://www.notion.so/DiffusionCLIP-Text-Guided-Diffusion-Models-for-Robust-Image-Manipulation-129ebd9ecb2d4dbd8f5a34a47d679b07)
+### Prompt-to-Prompt Image Editing with Cross Attention Control
+- [Cross Attention Control을 사용한 Image Editing](https://www.notion.so/Prompt-to-Prompt-Image-Editing-with-Cross-Attention-Control-17a9b879a0e145069636ce42ba69f8a9?pvs=25)
+<!-- ### InstructPix2Pix: Learning to Follow Image Editing Instructions -->
+### Adding Conditional Control to Text-to-Image Diffusion Models
+- ControlNet
+
+## 7. Diffusion Fast Sampling
+<!-- ### Noise2Score: Tweedie's Approach to Self-Supervised Image Denoising without Clean Images -->
+<!-- ### Progressive Distillation for Fast Sampling of Diffusion Models -->
 <!-- ### DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps
 - 빠른 샘플링 방식 -->
-### DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation
-- Image Editing method using CLIP Loss
+
+## 8. Diffusion New Concept Learning
 ### An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion
-- Textual Inversion: New Concept 학습시 Rare Token의 Embedding만 학습해 Unet의 적절한 조건으로 변형하는 방법
-### Prompt-to-Prompt Image Editing with Cross Attention Control
-- Cross Attention Control을 사용한 Image Editing
+- [Textual Inversion: New Concept 학습시 Rare Token의 Embedding만 학습해 Unet의 적절한 조건으로 변형하는 방법](https://www.notion.so/An-Image-is-Worth-One-Word-Personalizing-Text-to-Image-Generation-using-Textual-Inversion-852d87a6930a48818399562e03b9c5c1)
 <!-- ### Denoising MCMC for Accelerating Diffusion-Based Generative Models -->
 ### Diffusion Models Already Have A Semantic Latent Space
 - h space를 사용한 Image Editing
-<!-- ### InstructPix2Pix: Learning to Follow Image Editing Instructions -->
 <!-- ### DiffFace: Diffusion-based Face Swapping with Facial Guidance -->
 <!-- ### DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion -->
-### Adding Conditional Control to Text-to-Image Diffusion Models
-- ControlNet
 ### DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven
 - 모델의 prior를 잊지 않는 New Concept 학습방법
 <!-- ### InstantBooth: Personalized Text-to-Image Generation without Text-Time Finetuning -->
@@ -164,19 +185,12 @@ SE-Net -->
 - celeb basis: Face embedding을 text space에 align해 연예인 얼굴들의 조합으로 표현
 ### Multi-Concept Customization of Text-to-Image Diffusion
 - Custom Diffusion: K와 V만 학습하고, Multi concept 학습 & 병합 가능
-### SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis
-- Stable Diffusion XL
 <!-- ### Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning
 - 훈련없이 사용자의 피드백만으로 출력 결과를 원하는 방향으로 조절 가능한 DM -->
 ### HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models
 - HyperNetwork로 모델의 Personzliaed weight를 예측하는 방법
-<!-- ### Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry -->
 <!-- ### Dense Text-to-Image Generation with Attention Modulation -->
 ### MagiCapture: High-Resolution Multi-Concept Portrait Customization
 - Face embedding과 Attn refocusing을 추가한 New concept 학습 방법
 ### FreeU: Free Lunch in Diffusion U-Net
 - UNet의 feature와 skip connection의 concat 지점에서의 비율 조절해 이미지 품질 개선
-<!-- ### Adversarial Diffusion Distillation
-- SDXL turbo -->
-<!-- ### Diffusion Model Alignment Using Direct Preference Optimization
-- Diffusion DPO -->
