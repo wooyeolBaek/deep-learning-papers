@@ -9,7 +9,7 @@
 8. [Diffusion New Concept Learning](#8-diffusion-new-concept-learning)
 
 
-## 1. CNN
+> ## 1. CNN
 ### Very Deep Convolutional Networks for Large-Scale Image Recognition
 - [VGG](https://maize-skink-ffe.notion.site/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition-0f9110115ad14835843b20ec18180006)
 ### Going Deeper with Convolutions
@@ -46,12 +46,12 @@
 - ConvNeXt v2 -->
 
 
-## 2. Transformers
+> ## 2. Transformers
 ### An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
 - ViT
 
 
-## 3. Detection
+> ## 3. Detection
 ### Rich feature hierarchi accurate object detection and semantic segmentation
 - [R-CNN](https://www.notion.so/Rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation-49acc8695066433c80eac4525994e97f)
 ### OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
@@ -89,7 +89,7 @@ SE-Net -->
 
 
 
-## 4. GAN
+> ## 4. GAN
 ### Generative Adversarial Networks
 - GAN
 <!-- ### Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
@@ -105,7 +105,7 @@ SE-Net -->
 
 
 
-## 5. Diffusion basic
+> ## 5. Diffusion basic
 
 ### Deep Unsupervised Learning using Nonequilibrium Thermodynamics
 - [The beginning of Diffusion method](https://www.notion.so/Deep-Unsupervised-Learning-using-Nonequilibrium-Thermodynamics-e11a140364174af8b8904350ec82de78)
@@ -147,7 +147,7 @@ SE-Net -->
 - Diffusion DPO -->
 
 
-## 6. Diffusion Image Editing
+> ## 6. Diffusion Image Editing
 <!-- ### SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
 - SDEdit -->
 ### DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation
@@ -163,7 +163,7 @@ SE-Net -->
 - 훈련없이 사용자의 피드백만으로 출력 결과를 원하는 방향으로 조절 가능한 DM -->
 
 
-## 7. Diffusion Fast Sampling
+> ## 7. Diffusion Fast Sampling
 <!-- ### Noise2Score: Tweedie's Approach to Self-Supervised Image Denoising without Clean Images -->
 <!-- ### Progressive Distillation for Fast Sampling of Diffusion Models -->
 <!-- ### DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps
@@ -173,7 +173,7 @@ SE-Net -->
 - Fast Sampling -->
 
 
-## 8. Diffusion New Concept Learning
+> ## 8. Diffusion New Concept Learning
 ### An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion
 - [Textual Inversion: New Concept 학습시 Rare Token의 Embedding만 학습해 Unet의 적절한 조건으로 변형하는 방법](https://www.notion.so/An-Image-is-Worth-One-Word-Personalizing-Text-to-Image-Generation-using-Textual-Inversion-852d87a6930a48818399562e03b9c5c1)
 <!-- ### DiffFace: Diffusion-based Face Swapping with Facial Guidance -->
