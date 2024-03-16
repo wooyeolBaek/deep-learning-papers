@@ -1,13 +1,13 @@
 # vision
-1. [VAEs](#vaes)
-2. [Diffusion Fundamentals](#diffusion-fundamentals)
-3. [Diffusion Image Editing](#diffusion-image-editing)
-4. [Diffusion Fast Sampling](#diffusion-fast-sampling)
-5. [Diffusion Improving Sample Quality(Fidelity)](#diffusion-improving-sample-qualityfidelity)
+<!-- 1. [VAEs](#vaes) -->
+1. [Diffusion Fundamentals](#diffusion-fundamentals)
+2. [Diffusion Image Editing](#diffusion-image-editing)
+3. [Diffusion Fast Sampling](#diffusion-fast-sampling)
+4. [Diffusion Improving Sample Quality(Fidelity)](#diffusion-improving-sample-qualityfidelity)
 
-> ## VAEs
+<!-- > ## VAEs
 ### Auto-Encoding Variational Bayes
-- [VAE](https://www.notion.so/Auto-Encoding-Variational-Bayes-1d175f25daf64d34bba0ce10169b6910)
+- [VAE](https://www.notion.so/Auto-Encoding-Variational-Bayes-1d175f25daf64d34bba0ce10169b6910) -->
 <!-- ### Generatibe Moments Matching Networks
 - Generative Moments Matching Networks -->
 <!-- ### Hierachical Variational Models
