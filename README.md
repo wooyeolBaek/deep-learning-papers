@@ -1,7 +1,10 @@
 # Deep Learning Papers
 
+Paper reviews for DL papers(specifically Diffusion models, Multimodal learning, Generative models)
 
-## [0-Basic](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/0-basic)
+[Paper List](https://maize-skink-ffe.notion.site/Papers-ef294536ddfd4511af06c3861f3f5573)
+
+<!-- ## [0-Basic](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/0-basic) -->
 <!-- 
 <details>
 <summary>Normalizations</summary>
@@ -17,7 +20,7 @@
 </div>
 </details> -->
 
-## [1-Vision](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/1-vision)
+<!-- ## [1-Vision](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/1-vision) -->
 <!-- 
 <details>
 <summary>CNN</summary>
@@ -56,7 +59,7 @@
 </details> -->
 
 
-## [2-Language](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/2-language)
+<!-- ## [2-Language](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/2-language) -->
 
 <!-- <details>
 <summary>Transformers</summary>
@@ -66,7 +69,7 @@
 </details> -->
 
 
-## [4-Multimodal](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/3-multimodal)
+<!-- ## [4-Multimodal](https://github.com/wooyeolBaek/deep-learning-papers/tree/main/3-multimodal) -->
 
 <!-- <details>
 <summary>Vision-Language</summary>
